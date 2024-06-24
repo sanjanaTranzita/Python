@@ -1,1 +1,0 @@
-print(type({'name': 'Asabeneh'}))
